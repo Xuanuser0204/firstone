@@ -1,6 +1,5 @@
 {
-    "wallpaper_url": "https://raw.githubusercontent.com/Xuanuser0204/firstone/main/1tt.jpg",
-    "description": "壁纸配置",
-    "author": "wp2",
-    "update_frequency": "daily"
+  "wallpaper_sources": [
+    "https://raw.githubusercontent.com/Xuanuser0204/firstone/main/1tt.jpg"
+  ]
 }
